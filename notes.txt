@@ -1,0 +1,25 @@
+# VBA lets us create (UDFs) User Defined Functions to automate stuff. 
+
+# two options
+	- hardcode directly into excel workbook
+	- create an addin accessible by other users
+
+
+# need to know
+
+	- record a macro
+	- add modules
+	- browse objects
+	- get some background on declaring variables
+
+----------
+
+	- record a macro
+		1. from tools >macro >record a macro
+		2. from the developer tab (shortcut can be defined from console)
+
+		## note : need to figure out mac specific code for executing code (as opposed to just the shortcut or pressing the run button)
+
+	- add modules
+	- browse objects
+	- get some background on declaring variables
