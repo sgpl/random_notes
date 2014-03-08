@@ -1,18 +1,17 @@
 # VBA lets us create (UDFs) User Defined Functions to automate stuff. 
 
-# two options
+### two options
 	- hardcode directly into excel workbook
 	- create an addin accessible by other users
 
 
-# need to know
+### need to know
 
 	- record a macro
 	- add modules
 	- browse objects
 	- get some background on declaring variables
 
-----------
 
 	- record a macro
 		1. from tools >macro >record a macro
@@ -36,7 +35,7 @@
 
 ## immediate window is critical for debugging code. 
 
-----------------------------------------
+
 ----------------------------------------
 	- loops 
 	- dimension and instantiate objects
