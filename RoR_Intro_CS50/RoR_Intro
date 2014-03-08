@@ -1,0 +1,59 @@
+### Ruby on Rails Intro 
+
+// from Harvard CS50 - [Youtube Link](http://youtu.be/PcR6BzeqsG0)
+
+- relatively new web framework
+- companies that use RoR: Twitter / Groupon / GitHub
+
+
+##### what is a framkwork?
+
+- half of the website is already there from scratch
+- most of the basics are setup / have some sort of foundation built
+- MVC: Model / View / Controller
+
+
+#####  what is ruby?
+
+- intrepreted language
+- plenty of help online: gems online
+- easy to integrate ruby and html
+- other features of ruby 
+
+##### why rails?
+
+- MVC makes everything simpler
+- less time spent on low level problems
+- rails 4.0 very new - lots of awesome features
+
+
+##### app folder 
+
+- assets: images / js / css
+- controllers: talk about later
+- helpers: used in all parts of application
+- mailers: if you are interested in integrating emails / etc. 
+- models
+	- each table in DB has corresponding model> eg: user.rb / etc.
+	- __rails generate__ model User email:string password:string
+	- DB relations - has_many/belongs_to
+
+
+##### view
+
+- out of the box layout created with stuff that can be edited
+- other info: 
+
+##### controller
+
+- interface bw Model and View
+- Loads info for the view
+- Calls Methods from Models
+
+
+##### insalling rails
+
+- follow instructions on ror website
+- once installed: 
+	- rails new __nameOfprogram__
+	
