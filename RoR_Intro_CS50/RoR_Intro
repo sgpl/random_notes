@@ -56,4 +56,8 @@
 - follow instructions on ror website
 - once installed: 
 	- rails new __nameOfprogram__
-	
+
+##### etc
+
+- to use facebook integration / google maps api / etc. 
+- some 'gems' solve problems, others use api docs. 
